@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Minimalist Hanger Hook -->
+  <path d="M 256 48 C 226 48 210 66 210 90 C 210 112 238 122 256 138" 
+        stroke="#1F2937" stroke-width="18" stroke-linecap="round" fill="none" />
+  <circle cx="256" cy="138" r="7" fill="#1F2937" />
+
+  <!-- Shopping Bag Handles -->
+  <path d="M 184 172 C 184 114 216 104 256 104 C 296 104 328 114 328 172" 
+        stroke="#1F2937" stroke-width="16" stroke-linecap="round" fill="none" />
+
+  <!-- Shopping Bag Body -->
+  <rect x="96" y="172" width="320" height="286" rx="36" 
+        stroke="#1F2937" stroke-width="20" stroke-linejoin="round" fill="none" />
+
+  <!-- Minimalist Coat Lapel Line -->
+  <path d="M 166 172 L 256 268 L 346 172" 
+        stroke="#1F2937" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
